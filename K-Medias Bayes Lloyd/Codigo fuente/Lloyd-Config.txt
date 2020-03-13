@@ -1,0 +1,5 @@
+Tolerancia:0.0000000001
+MaxIteraciones:91
+RazonAprendizaje:0.1
+4.6,3.0,4.0,0.0,Iris-setosa
+6.8,3.4,4.6,0.7,Iris-versicolor

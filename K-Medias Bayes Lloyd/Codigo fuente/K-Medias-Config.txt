@@ -1,0 +1,4 @@
+Tolerancia:0.01
+PesoExponencialB:2
+4.6,3.0,4.0,0.0,Iris-setosa
+6.8,3.4,4.6,0.7,Iris-versicolor
